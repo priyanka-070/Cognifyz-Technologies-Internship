@@ -9,22 +9,29 @@ The Data Analysis Internship at Cognifyz Technologies provided hands-on experien
 ## 🛠️ Tools & Technologies Used
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL
-- Excel / Google Sheets
-- Jupyter Notebook / VS Code
-- Power BI / Tableau *(if applicable)*
-- Git & GitHub
+- Jupyter Notebook 
+- GitHub
 
 ## 🔍 Key Projects
 
-Level 1 :
-    Task 1 - Top Cuisines
+Level 1 :-
+
+   - Task 1 : Top Cuisines
          - Determine the top three most common cuisines in the dataset.
          - Calculate the percentage of restaurants that serve each of the top cuisines.
 
-    Task 2 -City Analysis
+   - Task 2 : City Analysis
         -Identify the city with the highest numberof restaurants in the dataset.
         -Calculate the average rating forrestaurants in each city.
         -Determine the city with the highestaverage rating.
 
-    Task 3
+   - Task 3 : Price Range Distribution
+        -Create a histogram or bar chart tovisualize the distribution of price rangesamong the restaurants.
+        -Calculate the percentage of restaurantsin each price range category.
+
+   - Task 4 :
+        -Determine the percentage of restaurants that offer online delivery.
+        -Compare the average ratings of restaurants with and without online delivery.
+     
+
+    
